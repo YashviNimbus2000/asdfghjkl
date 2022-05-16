@@ -1,0 +1,42 @@
+body 
+ {
+    font-family: 'Oleo Script Swash Caps', cursive;
+     background: honeydew;
+ }
+
+ .header_div
+ {
+     background: pink;
+     color: black;
+ }
+
+ .header_div p 
+ {
+     font-family: 'Roboto' , sans-serif;
+     color: gray;
+     letter-spacing: 2px;
+     font-size: 12px;
+     font-weight: bold;
+ }
+ .main_div button 
+ {
+    font-family: 'Roboto' , sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+ }
+
+ .copy_right_footer 
+ {
+    font-family: 'Oleo Script Swash Caps', cursive; 
+    position: fixed;
+     color: pink;
+     bottom: 0;
+     width: 100%;
+     font-size: 20px ;
+     background-color: #030000;
+     line-height: 3;
+     text-align: center;
+     text-shadow: 10px 10px 10px plum;
+ }
